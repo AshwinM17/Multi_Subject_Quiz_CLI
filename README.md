@@ -1,2 +1,2 @@
 # Multi_Subject_Quiz_CLI
- I created a Python quiz which incorporated Multiple Subjects for practice
+ I had created a Python based quiz which incorporated Multiple Subjects for practice
